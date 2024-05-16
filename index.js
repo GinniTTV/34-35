@@ -6,7 +6,7 @@ const app = express();
 const PORT = 3000;
 
 
-const uri = 'mongodb+srv://ginitvx26:<password>@data1.axuylyt.mongodb.net/?retryWrites=true&w=majority&appName=data1';
+const uri = 'mongodb+srv://ginitvx26:yOXWHKs4mIOP6n6d@data1.axuylyt.mongodb.net/data1';
 
 
 const connectDB = async () => {
